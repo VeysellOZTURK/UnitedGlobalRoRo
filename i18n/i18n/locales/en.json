@@ -1,0 +1,67 @@
+{
+  "menu": {
+    "home": "Home",
+    "about": "About Us",
+    "services": "Services", 
+    "news": "News & Events",
+    "contact": "Contact Us"
+  },
+  "hero": {
+    "title": "Redefined",
+    "subtitle": "Vehicle Logistics",
+    "description": "Find out about our specialized transportation services for cars, high and heavy machinery, and out off gauge cargo"
+  },
+  "about":{
+    "team": "Click to connect with our team",
+    "title":"With our strong Automotive Business Division  we dedicated to delivering efficient, sustainable, and value added maritime logistics solution for wide range of self-propelled and project cargo.",
+    "description": " Our commitment to providing a seamless customer experience is made possible by our adept team of specialists, as well as a fleet of state-of-the-art vessels catering to an array of different on and offshore services.",
+    "description2": " We have a team of experienced seafarers that ensure our maritime and port activities operate smoothly."
+  },
+  "footer": {
+    "contact": "Contact Us!",
+    "contactDesc": "You can call us or write your e-mail address.",
+    "contactDesc2": "You can let us reach you.",
+    "home": "Home",
+    "about": "About",
+    "services": "Services",
+    "news": "News & Events",
+    "contactUs": "Contact Us",
+    "cookies": "Cookies Policy",
+    "privacy": "Privacy Policy",
+    "terms": "Terms & Conditions",
+    "rights": "All rights reserved.",
+    "send": "Send"
+  },
+  "services":{
+    "title":"United Global Ro-Ro, is redefining vehicle logistics with it's strong port partnerships and ",
+    "titleSpan":"impeccable integrated service network.",
+    "description":"We're delivering cutting-edge solutions to transport high & heavy cargo and vehicles with unmatched reliability and efficiency from the heart of the Middle East to destinations around the globe. UGR is your trusted partner for seamless connections and innovative operations. Backed by advanced technology and a commitment to sustainability, we're setting new standards in global logistics."
+  },
+  "statics":{
+    "link":"For further information",
+    "title":"United Global Ro-Ro: Driving the Future of Logistics. Join us as we rise to the top—revolutionizing the way the world moves!",
+    "linkTo":"Discorver UGR",
+    "infoDetail":"Countries",
+    "infoDetail_2":"PDI Center",
+    "infoDetail_3":"Auto Termination",
+    "badgeDetail":"visited ports as hub centers.",
+    "badgeDetail_2":"Daily total PDI capacity",
+    "badgeDetail_3":"Total storage area at auto terminals."
+  },"product": {
+    "title": "Product Introduction",
+    "desc": "The 7,000CEU pure car truck carriers (PCTCs) vessels for UGR have an overall length of 199.9m and width of 38m, will feature two sets of C-type LNG tanks and comply with NOx Tier III regulations requirements, which are projected to minimize CO₂ emissions.",
+    "table":"Main Parameters",
+    "solutionTitle":"LNG Solutions that respect nature and life",
+    "solutionDesc":"Our green vessels are designed with LNG tanks and comply with NOx Tier lll regulations to meet the latest global environmental standards. These vessels are projected to minimize CO, emissions significantly, aligning with our commitment to sustainability. By prioritizing eco-friendly solutions, we are shaping greener, more | efficient supply chains for our customers worldwide and setting new benchmarks in responsible maritime transport.",
+    "solutionDescContinued":"Together, we are building a cleaner future, reducing our carbon foot prints, and leading the way to more sustainable global frade. ",
+    "altTitle":"Dedicated to delivery efficient operations."
+  },"delivery": {
+    "title1": "Strategic Partnerships",
+    "desc1": "Finding the right solution partners and acquiring powerful connections to provide non-stop service.",
+    "title2": "Tailor-Made Solutions",
+    "desc2": "Shaping the operations to fit customer or vessels' needs to achieve value-added service.",
+    "title3": "Accelerated Growth in Operations",
+    "desc3": "Adapting shaping provided services by right insights of evolving and market demands.",
+    "title4": "Environmental Responsibility",
+    "desc4": "Adding next-generation PCTCs to the fleet with features as two sets of C-type LNG tanks and comply with NOx Tier III regulations, which are projected to minimize CO₂ emissions."
+}}

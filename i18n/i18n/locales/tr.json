@@ -1,0 +1,68 @@
+{
+  "menu": {
+    "home": "Ana Sayfa",
+    "about": "Hakkımızda", 
+    "services": "Hizmetler",
+    "news": "Haberler & Etkinlikler",
+    "contact": "İletişim"
+  },
+  "hero": {
+    "title": "Yeniden Tanımlanan",
+    "subtitle": "Araç Lojistiği",
+    "description": "Otomobiller, ağır makineler ve gabari dışı yükler için özel taşımacılık hizmetlerimiz hakkında bilgi edinin"
+  },
+  "about":{
+    "team": "Ekibimizle bağlantı kurmak için tıklayın",
+    "title":"Güçlü Otomotiv İş Bölümümüzle, geniş bir yelpazedeki kendi kendine hareket eden ve proje yükleri için verimli, sürdürülebilir ve katma değerli deniz lojistiği çözümleri sunmaya kendimizi adadık.",
+    "description": "Müşteri deneyimini kesintisiz bir şekilde sunma taahhüdümüz, yetenekli uzman ekibimizin yanı sıra çeşitli kara ve deniz hizmetlerine yönelik yeni nesil gemilerle mümkün olmaktadır.",
+    "description2": "Deneyimli denizcilerden oluşan bir ekibimiz var ve bu ekip, deniz ve liman faaliyetlerimizin sorunsuz bir şekilde yürütülmesini sağlıyor."
+  },
+  "footer": {
+    "contact": "Bize Ulaşın!",
+    "contactDesc": "Bizi arayabilir veya e-posta adresinizi yazabilirsiniz.",
+    "contactDesc2": "Size ulaşmamıza izin verebilirsiniz.",
+    "home": "Ana Sayfa",
+    "about": "Hakkımızda",
+    "services": "Hizmetler",
+    "news": "Haberler & Etkinlikler",
+    "contactUs": "Bize Ulaşın",
+    "cookies": "Çerez Politikası",
+    "privacy": "Gizlilik Politikası",
+    "terms": "Şartlar ve Koşullar",
+    "rights": "Tüm hakları saklıdır.",
+    "send": "Gönder"
+  },
+  "services": {
+    "title": "United Global Ro-Ro, güçlü liman ortaklıkları ve",
+    "titleSpan": "kusursuz entegre hizmet ağı ile araç lojistiğini yeniden tanımlıyor.",
+    "description": "Orta Doğu'nun kalbinden dünyanın dört bir yanındaki destinasyonlara yüksek ve ağır yükleri ve araçları benzersiz güvenilirlik ve verimlilikle taşımak için son teknoloji çözümler sunuyoruz. UGR, sorunsuz bağlantılar ve yenilikçi operasyonlar için güvenilir ortağınızdır. Gelişmiş teknoloji ve sürdürülebilirliğe olan bağlılığımızla, küresel lojistikte yeni standartlar belirliyoruz."
+  },
+  "statics":{
+    "link":"Daha fazla bilgi için",
+    "title":"United Global Ro-Ro: Lojistiğin Geleceğini Sürüyor. Dünyanın hareket etme şeklini devrim niteliğinde değiştirirken bize katılın!",
+    "linkTo":"UGR'yi Keşfedin",
+    "infoDetail":"Ülkeler",
+    "infoDetail_2":"PDI Merkezi",
+    "infoDetail_3":"Otomatik Sonlandırma",
+    "badgeDetail":"merkez olarak kullanılan limanlar.",
+    "badgeDetail_2":"Günlük toplam PDI kapasitesi",
+    "badgeDetail_3":"Otomatik terminallerdeki toplam depolama alanı."
+  },"product": {
+    "title": "Ürün Tanıtımı",
+    "desc": "UGR için 7.000CEU saf araba kamyon taşıyıcıları (PCTC) gemileri, 199.9m toplam uzunluğa ve 38m genişliğe sahiptir, iki set C tipi LNG tankı içerecek ve NOx Tier III düzenlemeleri gereksinimlerine uyacak şekilde tasarlanmıştır, bu da CO₂ emisyonlarını minimize etmeyi hedeflemektedir.",
+    "table": "Ana Parametreler",
+    "solutionTitle": "Doğaya ve hayata saygı duyan LNG Çözümleri",
+    "solutionDesc": "Yeşil gemilerimiz, LNG tankları ile tasarlanmış olup en son küresel çevre standartlarını karşılamak için NOx Tier III düzenlemelerine uygundur. Bu gemiler, CO₂ emisyonlarını önemli ölçüde azaltmayı hedeflemekte olup, sürdürülebilirliğe olan bağlılığımızla uyumludur. Çevre dostu çözümleri önceliklendirerek, müşterilerimiz için daha yeşil ve daha verimli tedarik zincirleri oluşturuyor ve sorumlu deniz taşımacılığında yeni standartlar belirliyoruz.",
+    "solutionDescContinued": "Birlikte, daha temiz bir gelecek inşa ediyor, karbon ayak izimizi azaltıyor ve daha sürdürülebilir bir küresel ticarete öncülük ediyoruz.",
+    "altTitle": "Verimli operasyonların teslimine adanmış."
+  },"delivery": {
+    "title1": "Stratejik Ortaklıklar",
+    "desc1": "Kesintisiz hizmet sunmak için doğru çözüm ortaklarını bulmak ve güçlü bağlantılar kurmak.",
+    "title2": "Özel Çözümler",
+    "desc2": "Değer katan hizmetler sağlamak için operasyonları müşteri veya gemilerin ihtiyaçlarına göre şekillendirmek.",
+    "title3": "Operasyonlarda Hızlı Büyüme",
+    "desc3": "Gelişen pazar taleplerine ve doğru içgörülere göre sağlanan hizmetleri uyarlamak.",
+    "title4": "Çevresel Sorumluluk",
+    "desc4": "Filoya iki set C tipi LNG tankı ve NOx Tier III düzenlemelerine uygun özelliklere sahip yeni nesil PCTC'ler ekleyerek CO₂ emisyonlarını minimize etmeyi hedeflemek."
+
+}}

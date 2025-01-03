@@ -1,0 +1,121 @@
+// assets/scss/main.scss
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+$primary-color: #1a2b47;
+$accent-color: #3b82f6;
+
+body {
+  margin: 0;
+  color: #333;
+  background-color: #f8f9fa;
+  font-family: 'Roboto', sans-serif;
+  overflow-x: hidden;
+}
+
+.hero {
+  height: 100vh;
+  color: white;
+  position: relative;
+  overflow: hidden;
+
+  // Fullscreen background video
+  &__video {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100vw;
+    height: 100vh;
+    object-fit: cover;
+    z-index: -1;
+    opacity: 1;
+  }
+
+  &__content {
+    position: absolute;
+    top: 50%;
+    left: 10%;
+    transform: translateY(-50%);
+    z-index: 2;
+  
+  }
+
+  &__title {
+    font-size: 2rem;
+    margin: 0;
+    font-weight: 700;
+
+    @media (min-width: 768px) {
+      font-size: 3rem;
+    }
+
+    @media (min-width: 1024px) {
+      font-size: 4rem;
+    }
+  }
+
+  &__subtitle {
+    font-size: 2rem;
+    color: $accent-color;
+    margin: 0.5rem 0 2rem;
+    font-weight: 700;
+
+    @media (min-width: 768px) {
+      font-size: 3rem;
+    }
+
+    @media (min-width: 1024px) {
+      font-size: 4rem;
+    }
+  }
+
+  &__description {
+    
+    max-width: 450px;
+    line-height: 1.6;
+    font-size: 0.8rem;
+    opacity: 1;
+
+    @media (min-width: 768px) {
+      font-size: 1.1rem;
+    }
+
+    @media (min-width: 1024px) {
+      font-size: 1.2rem;
+      margin-top: 50px;
+    }
+  }
+
+  &__image {
+    /* Layout Properties */
+    position: absolute;
+
+    top: 373px;
+    left: 705px;
+    width: 1650px;
+    height: 662px;
+    /* UI Properties */
+    opacity: 1;
+  }
+  &__shipunder {
+    position: absolute;
+    top: 184px;
+    left: 1215px;
+    width: 500px;
+    height: 1020px;
+    background: transparent url("/assets/images/under-ship.png") 0% 0% no-repeat
+      padding-box;
+    opacity: 1;
+  }
+}
+
+// Animation for the video background
+@keyframes fadeIn {
+  0% {
+    opacity: 0.5;
+  }
+  100% {
+    opacity: 1;
+  }
+}
